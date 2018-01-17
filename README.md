@@ -1,2 +1,3 @@
 # ML-DK
-Machine learning homework
+Machine learning stuffs
+labs and other projects
